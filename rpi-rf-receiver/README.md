@@ -34,3 +34,4 @@ binary_sensor:
 # Updates/Fixes:
   -  "apparmor": "false" - HASSIO rpi-rf failing to initialize rx due to recent addition of apparmor (fryguy04)
   -  pointing MQTT at "core-mosquitto" instead of static IP. More robust as long as you are using HASSIO's official Mosquitto Addon (fryguy04)
+  -  Fix 29/11/2020
